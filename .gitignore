@@ -1,0 +1,11 @@
+**/*.ipynb_checkpoints/
+__pycache__/
+checkpoints/
+Dataset/
+
+example.jpg
+max_length.txt
+Temporary.ipynb
+tokenizer.pickle
+yolov4.weights
+yolov5s.pt
